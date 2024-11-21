@@ -1,0 +1,8 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: service-b
+#service:
+#  a:
+#    url: https://servicea001.azurewebsites.net
